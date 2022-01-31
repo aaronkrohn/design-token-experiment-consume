@@ -1,10 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Mon, 31 Jan 2022 11:31:25 GMT
+ * Generated on Mon, 31 Jan 2022 15:19:54 GMT
  */
 
 export const ColorFullBrandIndigo140 = "#05030f";
 export const ColorFullBrandIndigo120 = "#08051c";
+export const ColorFullBrandIndigo125 = "#08051c";
 export const ColorFullBrandIndigo100 = "#0f0a3a";
 export const ColorFullBrandIndigo80 = "#170f57";
 export const ColorFullBrandIndigo60 = "#261a91";
